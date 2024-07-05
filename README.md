@@ -109,6 +109,7 @@
   - [DarkRift 2](https://github.com/DarkRiftNetworking/DarkRift) - Unity focused high-performance multi-threaded multiplayer networking solution.
   - [FishNet](https://github.com/FirstGearGames/FishNet) - Unity networking solution aimed towards reliability, ease of use, efficiency, and flexibility.
   - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
+  - [GONet](https://galoreinteractive.com/gonet/) - Simple and powerful netcode solution for Unity (mostly GameObject centric).
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - Reliable UDP networking library (.NET/Mono/Unity).
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) - Lite reliable UDP networking library (.NET/Mono/Unity).
   - [MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
@@ -135,6 +136,7 @@
 
 ## Tools
 
+- [BES](https://mion.yosei.fi/BES/) - CPU/process throttler (think simulate server and client machine options and performance)
 - [CapAnalysis](https://www.capanalysis.net/ca/) - Web visual tool to analyze captured network traffic. (Ubuntu, Debian)
 - [clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility. (Windows)
 - [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
