@@ -153,6 +153,7 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [PurrNet](https://github.com/PurrNet/PurrNet) - Free and open-source Unity Networking solution (Unity/C#).
+  - [Reactor Engine](https://www.kinematicsoup.com/reactor) - Server-authoritative multiplayer engine for Unity with managed cloud hosting, scriptable orchestration, and automatic bandwidth compression
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
   - [TNet 3](https://assetstore.unity.com/packages/tools/network/networking-and-serialization-tools-tnet-3-56798) - Multiplayer networking and serialization tools for Unity (open-source).
 - Go
